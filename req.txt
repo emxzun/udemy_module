@@ -1,0 +1,9 @@
+django
+djangorestframework
+psycopg2-binary
+sqlalchemy
+docker
+celery
+python-decouple
+dj-config-url
+djangorestframework-simplejwt
